@@ -44,7 +44,7 @@ SQL queries were used to explore patterns in the data, including:
 
 ## Visualizations
 
-- **Tableau** was used to create interactive dashboards that visualize the relationships between various factors, such as academic pressure, sleep duration, and depression levels.
+- **Power BI** was used to create interactive dashboards that visualize the relationships between various factors, such as academic pressure, sleep duration, and depression levels.
   
 A sample of the dashboard visuals is included in the `/assets` folder.
 
